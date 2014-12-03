@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Lora:700);
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+body {
+	background-color: #F2E5D2;
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: "Lora";
+	font-weight: 700;
+}
+
+p {
+	font-family: Lato, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+header ul {
+	text-decoration: none;
+}
+
+main img {
+   padding:1px;
+   border:1px solid #73253F;
+}
