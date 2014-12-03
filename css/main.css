@@ -102,6 +102,19 @@ form {
 	min-height: 422px;
 }
 
+.percentage-bar {
+	background-color: bisque;
+	height: 18px;
+}
+
+.meter {
+	width: 100px;
+	height: 20px;
+	margin: 5px;
+	background-color: white;
+	border: 1px solid black;
+}
+
 /*test code for product grids*/
 /*#productGrid [class^="col-"] {*/
 	/*margin: auto;*/

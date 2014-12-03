@@ -1,7 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="JavaScriptLibraryMappings">
-    <file url="file://$PROJECT_DIR$/contact.html" libraries="{bootstrap}" />
-    <file url="file://$PROJECT_DIR$/products.html" libraries="{bootstrap, ui-bootstrap-tpls}" />
-  </component>
-</project>
+<project version="4" />
