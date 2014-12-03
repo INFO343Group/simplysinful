@@ -32,8 +32,12 @@ p {
 	padding-bottom: 1em;
 }
 
-header nav ul li {
+ul {
     list-style-type: none;
+    font-family: Lato, Helvetica, sans-serif;
+}
+
+header nav ul li {
     display: inline-block;
 	margin-right: 1em;
 	margin-top: 0.5em;
