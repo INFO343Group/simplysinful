@@ -115,6 +115,9 @@ form {
 	border: 1px solid black;
 }
 
+.reviews {
+	margin-top: 75px;
+}
 /*test code for product grids*/
 /*#productGrid [class^="col-"] {*/
 	/*margin: auto;*/
