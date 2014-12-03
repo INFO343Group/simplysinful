@@ -24,4 +24,15 @@ header ul {
 main img {
    padding:1px;
    border:1px solid #73253F;
+
+img.sins {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+header nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 5em;
+    margin-left: 4em;
 }
