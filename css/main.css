@@ -53,7 +53,7 @@ a:visited {
 
 a:hover,
 a:focus {
-	color: #A32E4E;
+	color: #C14969;
 }
 
 main img {
@@ -85,6 +85,7 @@ img.sins {
     margin-right: auto;
     display: block;
 }
+
 
 /*Media query for medium or larger screens*/
 @media (min-width: 992px) { 
