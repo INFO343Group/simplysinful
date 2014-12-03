@@ -20,6 +20,12 @@ h3 {
 	font-size: 25px;
 }
 
+h4 {
+	font-family: Lato, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-top: 1em;
+}
+
 footer p {
 	font-size: 10px;
 }
@@ -32,8 +38,12 @@ p {
 	padding-bottom: 1em;
 }
 
-header nav ul li {
+ul {
     list-style-type: none;
+    font-family: Lato, Helvetica, sans-serif;
+}
+
+header nav ul li {
     display: inline-block;
 	margin-right: 1em;
 	margin-top: 0.5em;
@@ -70,6 +80,11 @@ dd, dt {
 
 dd {
 	margin-bottom: 1em;
+}
+
+dl {
+	max-width: 200px;
+	margin: 0 auto;
 }
 
 form {
