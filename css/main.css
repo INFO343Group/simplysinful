@@ -35,7 +35,7 @@ p {
 	font-size: 16px;
 	margin: 0 auto;
 	max-width: 800px;
-	padding-bottom: 1em;
+	padding-bottom: 0.5em;
 }
 
 ul {
@@ -88,7 +88,7 @@ dl {
 }
 
 form {
-	margin-bottom: 1em;
+	margin-bottom: 4em;
 }
 
 /*Is this necessary with text-align rule?*/
