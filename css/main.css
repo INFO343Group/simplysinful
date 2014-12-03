@@ -97,13 +97,8 @@ form {
 	margin: auto;
 }
 
-.col-md-6 {
-	min-width: 570px;
-	min-height: 422px;
-}
-
 .percentage-bar {
-	background-color: bisque;
+	background-color: #73253F;
 	height: 18px;
 }
 
@@ -131,4 +126,9 @@ form {
 	h1 {
 		font-size: 35px;
 	}
+
+	.col-md-6 {
+	min-width: 570px;
+	min-height: 422px;
+}
 }
