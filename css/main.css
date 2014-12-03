@@ -75,6 +75,7 @@ img {
 
 dd, dt {
 	font-family: Lato, Helvetica, sans-serif;
+    max-width: inherit;
 }
 
 dd {
