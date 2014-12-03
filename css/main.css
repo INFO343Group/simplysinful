@@ -63,8 +63,11 @@ img {
 	max-width: 100%;
 }
 
-dl dd {
+dd, dt {
 	font-family: Lato, Helvetica, sans-serif;
+}
+
+dd {
 	margin-bottom: 1em;
 }
 
