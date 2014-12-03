@@ -71,6 +71,10 @@ dd {
 	margin-bottom: 1em;
 }
 
+.payment, .price {
+	float: left;
+}
+
 /*Is this necessary with text-align rule?*/
 img.sins {
     margin-left: auto;
