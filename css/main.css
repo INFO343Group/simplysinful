@@ -20,6 +20,12 @@ h3 {
 	font-size: 25px;
 }
 
+h4 {
+	font-family: Lato, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-top: 1em;
+}
+
 footer p {
 	font-size: 10px;
 }
@@ -73,6 +79,11 @@ dd, dt {
 
 dd {
 	margin-bottom: 1em;
+}
+
+dl {
+	max-width: 200px;
+	margin: 0 auto;
 }
 
 form {
