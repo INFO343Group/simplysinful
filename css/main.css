@@ -71,6 +71,10 @@ dd {
 	margin-bottom: 1em;
 }
 
+form {
+	margin-bottom: 1em;
+}
+
 /*Is this necessary with text-align rule?*/
 img.sins {
     margin-left: auto;
