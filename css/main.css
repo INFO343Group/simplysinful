@@ -93,16 +93,25 @@ form {
 	margin-bottom: 4em;
 }
 
-/*Is this necessary with text-align rule?*/
-img.sins {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+.row {
+	margin: auto;
 }
 
+.col-md-6 {
+	min-width: 570px;
+	min-height: 422px;
+}
+
+/*test code for product grids*/
+/*#productGrid [class^="col-"] {*/
+	/*margin: auto;*/
+	/*padding: auto;*/
+	/*background-color: #eee;*/
+	/*background-color: rgba(86,61,124,.15);*/
+/*}*/
 
 /*Media query for medium or larger screens*/
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
 	h1 {
 		font-size: 35px;
 	}
