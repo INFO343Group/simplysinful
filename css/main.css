@@ -128,7 +128,7 @@ form {
 	}
 
 	.col-md-6 {
-	min-width: 570px;
-	min-height: 422px;
-}
+		min-width: 50px;
+		min-height: 422px;
+	}
 }
